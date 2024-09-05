@@ -1,0 +1,19 @@
+.new-button {
+    position: absolute;
+    margin-left: 7px;
+    background-color: #3ea8ff;
+    color: white;
+    line-height: 1;
+    height: 32px;
+    width: 32px;
+    text-align: center;
+    border: none;
+    border-radius: 50%;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.new-button:active{
+    background-color: #0f83fd;
+    color: white;
+}
